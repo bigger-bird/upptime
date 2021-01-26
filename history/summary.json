@@ -4,9 +4,9 @@
     "url": "https://www.biggerbird.com",
     "icon": "https://favicons.githubusercontent.com/www.biggerbird.com",
     "slug": "bigger-bird",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 233,
     "timeMonth": 210,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-26": 0
+    }
   },
   {
     "name": "Yagu.world",
