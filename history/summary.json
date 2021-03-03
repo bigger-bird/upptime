@@ -25,19 +25,19 @@
     "url": "https://yagu.world",
     "icon": "https://favicons.githubusercontent.com/yagu.world",
     "slug": "yagu-world",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.89%",
-    "time": 760,
-    "timeDay": 7857,
-    "timeWeek": 3328,
-    "timeMonth": 1289,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.85%",
+    "time": 752,
+    "timeDay": 6329,
+    "timeWeek": 3045,
+    "timeMonth": 1256,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2021-03-03": 104
+      "2021-03-03": 142
     }
   }
 ]
