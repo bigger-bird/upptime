@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 207,
-    "timeDay": 187,
-    "timeWeek": 217,
+    "timeDay": 186,
+    "timeWeek": 221,
     "timeMonth": 200,
     "timeYear": 207,
     "dailyMinutesDown": {
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/yagu.world",
     "slug": "yagu-world",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.85%",
-    "time": 727,
-    "timeDay": 308,
-    "timeWeek": 3053,
+    "uptimeYear": "99.86%",
+    "time": 721,
+    "timeDay": 283,
+    "timeWeek": 3047,
     "timeMonth": 1250,
-    "timeYear": 727,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2021-03-03": 142
     }
