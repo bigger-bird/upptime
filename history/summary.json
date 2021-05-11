@@ -4,7 +4,7 @@
     "url": "https://www.biggerbird.com",
     "icon": "https://favicons.githubusercontent.com/www.biggerbird.com",
     "slug": "bigger-bird",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 197,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2021-05-11": 0,
       "2021-02-12": 22,
       "2021-01-26": 22
     }
